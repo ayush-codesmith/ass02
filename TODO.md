@@ -13,14 +13,14 @@
 ## Task 2: UI/UX Improvements
 - [x] Modern, clean, and professional UI (gradient background, card design)
 - [x] Improved typography, spacing, and color consistency
-- [ ] Fully responsive (mobile, tablet, desktop) - add more breakpoints if needed
-- [ ] Better form validation feedback (add JS if needed)
+- [x] Fully responsive (mobile, tablet, desktop) - add more breakpoints if needed
+- [x] Better form validation feedback (add JS if needed)
 
 ## Task 3: Best Practices
 - [x] Reusable components (form-group class)
 - [x] Semantic HTML and accessibility basics (labels, fieldsets, legends)
 - [x] Consistent formatting and indentation
-- [ ] Add comments where logic is important
+- [x] Add comments where logic is important
 
 ## Task 4: Performance & Quality
 - [x] Optimize CSS and JS (none yet)
@@ -29,7 +29,7 @@
 - [ ] Minify CSS (optional)
 
 ## Task 5: Documentation
-- [ ] Create professional README.md with:
+- [x] Create professional README.md with:
   - Project overview
   - Features
   - Tech stack
